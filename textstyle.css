@@ -1,0 +1,51 @@
+body{
+    text-align: center;
+    background-color: lavenderblush;
+}
+div{
+    background-color: steelblue;
+    height:225%;
+    width: 100%;
+    font-size:90px;
+    border-radius: 50px;
+    color: white;
+}
+.btn1{
+    font-size:30px;
+        border-radius: 100%;
+        color: white;
+        margin-right:80%;
+        margin-top:5%;
+        box-shadow: 0 0 30px #000000;
+        
+    }
+.aa1{
+        color: black;
+    }
+.back{
+        height:100px;
+    
+    }
+
+    .btn2{
+        margin-bottom: 30px;
+        font-size:60px;
+        margin-left: 27px;
+        border-radius: 20px;
+        border-color: rgb(255, 255, 255);
+        border-width: 5px;
+        border-style:dotted;
+        color: rgb(255, 255, 255);
+        font-family: stencil;
+        background-image: url(6.jpg);
+        box-shadow: 0 0 30px #000000;
+    }
+    .aa2{
+        color: white;
+        font-size: 60px;
+        background-image: url(party1.jpg);
+    }    
+    .cake{
+        height: 10%;
+        margin-top:50%;
+    }

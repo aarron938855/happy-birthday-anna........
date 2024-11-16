@@ -1,0 +1,122 @@
+body{
+    background-image: url(party2.jpg);
+    background-size:contain;
+    text-align: center;
+}
+.all1{
+    height:66%;
+    border-radius: 60px;
+    border-color: rgb(255, 240, 156);
+    border-width: 20px;
+    border-style:dashed;
+    margin-left: 60px;
+}
+.all2{
+    height:66%;
+    border-radius: 60px;
+    border-color: rgb(255, 240, 156);
+    border-width: 20px;
+    border-style:dashed;
+    margin-left: 60px;
+}
+.all3{
+    height:66%;
+    border-radius: 60px;
+    border-color: rgb(255, 240, 156);
+    border-width: 20px;
+    border-style:dashed;
+    margin-left: 60px;
+}
+.all4{
+    height:66%;
+    border-radius: 60px;
+    border-color: rgb(255, 240, 156);
+    border-width: 20px;
+    border-style:dashed;
+    margin-left: 60px;
+}
+.all5{
+    height:66%;
+    border-radius: 60px;
+    border-color: rgb(255, 240, 156);
+    border-width: 20px;
+    border-style:dashed;
+    margin-left: 60px;
+}
+.all6{
+    height:50%;
+    border-radius: 60px;
+    border-color: rgb(255, 240, 156);
+    border-width: 20px;
+    border-style:dashed;
+    margin-left: 60px;
+}
+.all7{
+    height:68%;
+    border-radius: 60px;
+    border-color: rgb(255, 240, 156);
+    border-width: 20px;
+    border-style:dashed;
+    margin-left: 60px;
+}
+.images{
+    height:47%;
+    border-radius: 60px;
+    border-color: rgb(255, 240, 156);
+    border-width: 20px;
+    border-style:dashed;
+    margin-left: 60px;
+}
+.images2{
+    height:68%;
+    border-radius: 60px;
+    border-color: rgb(255, 240, 156);
+    border-width: 20px;
+    border-style:dashed;
+    margin-left: 60px;
+}
+.images3{
+    height: 41%;
+    border-radius: 60px;
+    border-color: rgb(255, 240, 156);
+    border-width: 20px;
+    border-style:dashed;
+    margin-left: 60px;
+}
+button{
+font-size:30px;
+    border-radius: 100%;
+    color: white;
+    font-family: stencil;
+    margin-right:80%;
+    margin-top:5%;
+    box-shadow: 0 0 30px #ffffff;
+    
+}
+a{
+    color: black;
+}
+.back{
+font-size: 80px;
+color: steelblue;
+border-radius: 20px;
+background-color: white;
+border-color: steelblue;
+border-style: dotted;
+border-width: 10px;
+
+}
+.talk{
+    border-radius:50px;
+    width:35%;
+    height: 10%;
+    font-family:impact;
+    font-size: 100px;
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(255, 232, 192);
+    border-style: dashed;
+    border-width: 20px;
+    margin-bottom: 30px;
+    margin-left: 24%;
+    box-shadow: 0 0 50px  rgb(23, 23, 23);;
+}

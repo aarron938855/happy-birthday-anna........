@@ -1,0 +1,83 @@
+body{
+    text-align: center;
+    background-size: cover;
+    background-image: url(1.jpg);
+}
+img{
+    margin-top: 20px;
+    height: 30%;
+}
+.info{
+    background-color:steelblue;
+    border-radius: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    box-shadow: 0 0 60px steelblue;
+    margin-top: 5%;
+}
+.hi{
+    font-size: 60px;
+    font-family: GOUDY STOUT;
+    color: white;
+    
+}
+.contact{
+    background-color: lavender;
+    border-radius: 30px;
+    padding-bottom: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    box-shadow: 0 0 60px rgb(206, 206, 254);
+    margin-top: 10%;
+}
+.insta{
+    background-color: lavender;
+    text-align: center;
+    border-color: white;
+    margin-right: 20%;
+    border-radius: 20%;
+    
+}
+img{
+    height:150px;
+    margin-bottom: 10px;
+}
+.whats{
+    border-color: white;
+    background-color: lavender;
+    text-align: center;
+    border-radius: 20%;
+    
+}
+.img2{
+    height:150px;
+    width: 150px;
+}
+.wish{
+    background-color: lavenderblush;
+    font-size: 59px;
+    font-family: algerian;
+    border-radius: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    box-shadow: 0 0 60px lavenderblush;
+    margin-top: 5%;
+    margin-bottom: 10%;
+    color: steelblue;
+}
+    .backbtn{
+        height: 9%;
+        border-radius: 100%;
+        border-color: white;
+        background-color: white;
+    }
+    .backimg{
+        margin-top: 0%;
+    }
+    .profile{
+        height: 20%;
+        border-color: white;
+        border-style: dotted;
+        border-radius: 100%;
+        border-width:20px;
+    }
